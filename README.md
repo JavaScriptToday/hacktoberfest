@@ -16,3 +16,10 @@ ___
 - Outlivo, India
 - Alit Indrawan, Indonesia
 - Sarthak Roy, India
+- Arsya Adi, Indonesia
+- John Bampton, Australia
+- Rutam Prita Mishra, India
+- Bishal Karki, Nepal
+- Elisha Hollander, Israel
+- Mónica Ilenia Tardón Vera, España
+- Ziad O., France
