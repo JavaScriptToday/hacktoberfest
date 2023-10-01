@@ -16,4 +16,6 @@ ___
 - Outlivo, India
 - Alit Indrawan, Indonesia
 - Arsya Adi, Indonesia
+- John Bampton, Australia
+- Rutam Prita Mishra, India
 - Bishal Karki, Nepal
