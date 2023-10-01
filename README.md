@@ -18,3 +18,4 @@ ___
 - Arsya Adi, Indonesia
 - John Bampton, Australia
 - Rutam Prita Mishra, India
+- Bishal Karki, Nepal
