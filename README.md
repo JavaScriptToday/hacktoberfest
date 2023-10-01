@@ -23,4 +23,5 @@ To get started, simply add your name down below, along with the country you're f
 - Mónica Ilenia Tardón Vera, España
 - Ziad O., France
 - Subhang Mokkarala,India
+- Kelsey S., Georgia, United States
 - Ogunmisi Oluwafemi, Nigeria.
