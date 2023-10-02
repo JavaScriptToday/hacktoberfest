@@ -32,3 +32,9 @@ To get started, simply add your name down below, along with the country you're f
 - Ogunmisi Oluwafemi, Nigeria.
 - Francisco Borges, Portugal
 - Tahmid Akbar Omim, Bangladesh
+- Ankush Bhardwaj, India
+- Rutul Ganatra, Rutul
+- Harsha Divvela, India
+- Christian Escopete, Philippines
+- Harshavardhan Bajoria, India
+- Utsav Paul, India
