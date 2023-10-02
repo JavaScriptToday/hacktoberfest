@@ -51,6 +51,7 @@ To get started, simply add your name down below, along with the country you're f
 - Siddhant Rai, India
 - João Oliveira, Brasil
 - Abhishek Fadake, India
+- Omkar Vasekar, India
 - Sumita Pathak
 - Rajarshi Misra, India
 - Arnab Chakraborty, India
