@@ -32,6 +32,7 @@ To get started, simply add your name down below, along with the country you're f
 - Kelsey S., Georgia, United States
 - Ogunmisi Oluwafemi, Nigeria.
 - Francisco Borges, Portugal
+- Soban Ejaz, Pakistan
 - Muhammad Abubakar, Lahore, Pakistan
 - Tahmid Akbar Omim, Bangladesh
 - Ankush Bhardwaj, India
