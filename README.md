@@ -31,6 +31,7 @@ To get started, simply add your name down below, along with the country you're f
 - Mónica Ilenia Tardón Vera, España
 - Ziad O., France
 - Subhang Mokkarala,India
+- Idhant Singh, India
 - Kelsey S., Georgia, United States
 - Ogunmisi Oluwafemi, Nigeria.
 - Francisco Borges, Portugal
@@ -44,9 +45,14 @@ To get started, simply add your name down below, along with the country you're f
 - Harshavardhan Bajoria, India
 - Utsav Paul, India
 - Divyarajsinh Sindhav, India
+- Vivek Kumar, India
 - Tanisha Agarwal, India
 - Nabin Bhatt, Nepal
 - Siddhant Rai, India
 - João Oliveira, Brasil
 - Abhishek Fadake, India
 - Sumita Pathak
+- Rajarshi Misra, India
+- Arnab Chakraborty, India
+- Sourabh Kumar Singh, India
+- Pedro Fonseca, Brasil
