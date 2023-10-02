@@ -44,6 +44,7 @@ To get started, simply add your name down below, along with the country you're f
 - Harshavardhan Bajoria, India
 - Utsav Paul, India
 - Divyarajsinh Sindhav, India
+- Vivek Kumar, India
 - Tanisha Agarwal, India
 - Nabin Bhatt, Nepal
 - Siddhant Rai, India
