@@ -42,4 +42,5 @@ To get started, simply add your name down below, along with the country you're f
 - Christian Escopete, Philippines
 - Harshavardhan Bajoria, India
 - Utsav Paul, India
+- Siddhant Rai, India
 - João Oliveira, Brasil
