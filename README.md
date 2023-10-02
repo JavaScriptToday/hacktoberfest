@@ -31,5 +31,6 @@ To get started, simply add your name down below, along with the country you're f
 - Kelsey S., Georgia, United States
 - Ogunmisi Oluwafemi, Nigeria.
 - Francisco Borges, Portugal
+- Christian Escopete, Philippines
 - Harshavardhan Bajoria, India
 - Utsav Paul, India
