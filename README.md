@@ -8,6 +8,7 @@ To get started, simply add your name down below, along with the country you're f
 
 ---
 
+- Atharva Shah, India
 - Guy K., Tel Aviv, Israel
 - Matt F., Florida, United States
 - Pankaj B, Mumbai, India
@@ -43,3 +44,7 @@ To get started, simply add your name down below, along with the country you're f
 - Harshavardhan Bajoria, India
 - Utsav Paul, India
 - Divyarajsinh Sindhav, India
+- Tanisha Agarwal, India
+- Nabin Bhatt, Nepal
+- Siddhant Rai, India
+- João Oliveira, Brasil
