@@ -31,6 +31,7 @@ To get started, simply add your name down below, along with the country you're f
 - Kelsey S., Georgia, United States
 - Ogunmisi Oluwafemi, Nigeria.
 - Francisco Borges, Portugal
+- Tahmid Akbar Omim, Bangladesh
 - Ankush Bhardwaj, India
 - Rutul Ganatra, Rutul
 - Harsha Divvela, India
