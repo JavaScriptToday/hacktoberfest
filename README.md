@@ -47,6 +47,7 @@ To get started, simply add your name down below, along with the country you're f
 - Divyarajsinh Sindhav, India
 - Vivek Kumar, India
 - Tanisha Agarwal, India
+- Ayroti Dey Sarkar, India
 - Nabin Bhatt, Nepal
 - Siddhant Rai, India
 - João Oliveira, Brasil
