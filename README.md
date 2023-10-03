@@ -10,6 +10,7 @@ To get started, simply add your name down below, along with the country you're f
 
 - Atharva Shah, India
 - Guy K., Tel Aviv, Israel
+- Sidharth Sethi, India
 - Matt F., Florida, United States
 - Pankaj B, Mumbai, India
 - Meet P., Mumbai, India
