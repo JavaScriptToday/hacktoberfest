@@ -10,6 +10,7 @@ To get started, simply add your name down below, along with the country you're f
 
 - Atharva Shah, India
 - Guy K., Tel Aviv, Israel
+- Sidharth Sethi, India
 - Matt F., Florida, United States
 - Pankaj B, Mumbai, India
 - Meet P., Mumbai, India
@@ -47,6 +48,7 @@ To get started, simply add your name down below, along with the country you're f
 - Divyarajsinh Sindhav, India
 - Vivek Kumar, India
 - Tanisha Agarwal, India
+- Ayroti Dey Sarkar, India
 - Nabin Bhatt, Nepal
 - Siddhant Rai, India
 - João Oliveira, Brasil
@@ -58,3 +60,14 @@ To get started, simply add your name down below, along with the country you're f
 - Sourabh Kumar Singh, India
 - Pedro Fonseca, Brasil
 - Mateus Felipe, Brasil
+- Aryan Kumar, India
+- Bhavya Jain, India
+- Hasanul Banna Himel, Bangladesh
+- Pasindu Bandara, Sri Lanka
+- Tanish Baansal, India
+- Ayroti Dey Sarkar, India
+- Shohan Mondal, India
+- Akash Banik, India
+- B. Hamonangan, Indonesia
+- Sabiilul Hikam Azzuhrie, Indonesia
+- Rahul Talukdar, India
