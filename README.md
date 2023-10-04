@@ -58,3 +58,6 @@ To get started, simply add your name down below, along with the country you're f
 - Sourabh Kumar Singh, India
 - Pedro Fonseca, Brasil
 - Akash Banik, India
+- B. Hamonangan, Indonesia
+- Sabiilul Hikam Azzuhrie, Indonesia
+- Rahul Talukdar, India
