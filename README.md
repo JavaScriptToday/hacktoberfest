@@ -59,6 +59,7 @@ To get started, simply add your name down below, along with the country you're f
 - Arnab Chakraborty, India
 - Sourabh Kumar Singh, India
 - Pedro Fonseca, Brasil
+- Italo Carvalho Vianelli Ribeiro, Brazil
 - Mateus Felipe, Brasil
 - Aryan Kumar, India
 - Bhavya Jain, India
