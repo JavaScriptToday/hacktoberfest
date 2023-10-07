@@ -7,7 +7,7 @@ More information: [hacktoberfest.com](https://hacktoberfest.com/).
 To get started, simply add your name down below, along with the country you're from. That's it! The first 50 people will receive a free JavaScript Today sticker, of which you can see via the article above!
 
 ---
-
+- Sarthak Sharma, India
 - Atharva Shah, India
 - Guy K., Tel Aviv, Israel
 - Sidharth Sethi, India
