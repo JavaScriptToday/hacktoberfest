@@ -6,7 +6,7 @@ More information: [hacktoberfest.com](https://hacktoberfest.com/).
 
 To get started, simply add your name down below, along with the country you're from. That's it! The first 50 people will receive a free JavaScript Today sticker, of which you can see via the article above!
 
-**NOTE**: To get a sticker delivered to you, please send an email to contact@javascripttoday.com with your mailing address. We'll try to reach out to as many people as possible in the meantime. 
+**NOTE**: To get a sticker delivered to you, please send an email to contact@javascripttoday.com with your mailing address. We'll try to reach out to as many people as possible in the meantime. We're planning to have them sent out in November. When you receive it, please do show it off on socials!
 
 Thank you for participating! :D
 
