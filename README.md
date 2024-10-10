@@ -1,6 +1,6 @@
 # hacktoberfest
 
-Based on our article, [here](https://blog.javascripttoday.com/blog/hacktoberfest-2023/), this is the Hacktoberfest 2023 repo for JavaScriptToday.
+Based on our article, [here](https://javascripttoday.com/blog/hacktoberfest-2024-free-sticker/) this is the Hacktoberfest 2024 repo for JavaScriptToday.
 
 More information: [hacktoberfest.com](https://hacktoberfest.com/).
 
